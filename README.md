@@ -1,2 +1,1 @@
-# .github
-about
+# LPS Modeling and Simulation team
